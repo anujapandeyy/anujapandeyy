@@ -1,6 +1,6 @@
 ## Hi there I'm Anuja👋
-- 🔭 I’m interested in Frontend development.
-- 🌱 I’m currently learning Web Development.
+- 🔭 I’m interested in Web development.
+- 🌱 I’m currently learning Machine learning.
 - 👯 I’m looking to collaborate on projects and all things coding.
 - 📫 How to reach me: [pandeyanuja60@gmail.com](mailto:pandeyanuja60@gmail.com)
 - 😄 Pronouns: she/her
